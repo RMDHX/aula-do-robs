@@ -1,0 +1,33 @@
+header{
+    font-size: 25px;
+}
+
+nav{
+    position:absolute;
+    top:110px;
+    right:30px;
+}
+
+nav li{
+    display:inline;
+    margin:0 0 0 50px;
+}
+
+nav a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+
+body{
+    background-color: #eff3f3;
+    color:rgb(1, 14, 11);
+    font-style: oblique;
+}
+
+ol{
+    display: inline;
+    vertical-align: top;
+    width: 10%;
+}

@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(205, 237, 255);
+}
+
+.header{
+    padding: 20px;
+}
+
+.links{
+    display: inline;
+    margin-left: 500px;
+}
+
+.links a{
+    margin-left: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    padding: 3px;
+}
+
+.links a:hover{
+    color: #e605d3;
+    border-top: 2px solid #4b0385;
+    border-bottom: 2px solid #4b0385;
+}
+
+.span-1, .span-2{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.span-1{
+    color: #4b0385;
+}
+
+.span-2{
+    color: #e605d3;
+}
